@@ -1,6 +1,6 @@
-E-wallet
+**E-WALLET**
 
-An school assignment given to us to solve by looking at a mockup.
+A school assignment given to us to solve by looking at a mockup.
 
 **The assignment instructions were to:**
 Create an e-wallet with the possibillity as a user to add and delete cards from the stack/wallet. 

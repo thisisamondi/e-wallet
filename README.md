@@ -1,24 +1,10 @@
-# e-wallet
+E-wallet
 
-## Project setup
-```
-npm install
-```
+An assignment goven to us to solve by looking at a mockup. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The assignment instrunctions were to create an e-wallet with the possibillity as a user to add and delete cards from the stack/wallet. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Tools used: 
+  Vue.js
+  Vs code
+  Figma
